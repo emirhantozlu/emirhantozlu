@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello, I'm Emirhan Tozlu, a 3rd-year Computer Engineering student at Uludağ University in Bursa.<br><br>- 🔭 Currently, I'm working on projects related to artificial intelligence and machine learning.<br>- 🌱 I'm learning advanced machine learning techniques and researching topics in deep learning.<br>- 👯 I'm interested in collaborating on open-source AI projects.<br>- 🤔 I need help with complex machine learning problems.<br>- 💬 Feel free to ask me anything about artificial intelligence and machine learning.<br>- 📫 You can reach me at emirhntozlu1@gmail.com.<br>- ⚡ Fun fact: I enjoy listening to my favorite music genre while coding.<br><br>Feel free to check out my repositories and connect with me on GitHub!</p>
+<p align="left">Hello, I'm Emirhan Tozlu, a 3rd-year Computer Engineering student at Uludağ University in Bursa.<br><br>- 🔭 Currently, I'm working on projects related to artificial intelligence and machine learning.<br>- 🌱 I'm learning advanced machine learning techniques and researching topics in deep learning.<br>- 🕺 I'm interested in collaborating on open-source AI projects.<br>- 🤔 I need help with complex machine learning problems.<br>- 💬 Feel free to ask me anything about artificial intelligence and machine learning.<br>- 📫 You can reach me at emirhntozlu1@gmail.com.<br>- ⚡ Fun fact: I enjoy listening to my favorite music genre while coding.<br><br>Feel free to check out my repositories and connect with me on GitHub!</p>
 
 ###
 
