@@ -3,7 +3,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">  
-👨‍💻 3rd-year Computer Engineering student at Uludağ University.<br>  
+👨‍💻 3rd-year Computer Engineering student at Uludag University.<br>  
 🔍 Passionate about AI, machine learning, and deep learning.<br>  
 📚 Currently exploring advanced ML techniques and open-source projects.<br>  
 💬 Ask me about AI, ML, or programming in general!<br>  
